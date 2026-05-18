@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Alex Calderon 👋
 
-<!--
-**AlexCalderon-c/alexcalderon-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Fullstack / Backend Developer
 
-Here are some ideas to get you started:
+I’m a developer who genuinely enjoys building things, especially when they solve real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My core stack is JavaScript, Node.js, Express, React, and PostgreSQL, and I’m comfortable picking up new backend technologies quickly when needed.
+
+I’m always eager to learn and explore new ideas. I’m the kind of person who never loses interest in studying, improving, and understanding how things work.
+
+</br>
+
+**Hobbies**
+- I'm an artist, I love art and illustration
+- I love riding my bike and workout when I have the chance
